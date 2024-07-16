@@ -1,0 +1,51 @@
+.Title {
+    background-color: rgb(232, 230, 230);
+    border-width: 0;
+    text-align: center;
+}
+.tillbaka {
+    font-size: 50px;
+}
+.mapspage {
+   width: 250px;
+   display: block;
+   margin: 0 auto;
+}
+.intro {
+    font-size: 25px;
+    text-align: center;
+}
+.manualimg {
+    width: 450px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+.logo {
+    width: 300px;
+    max-width: 40%
+}
+.menu {
+    overflow: hidden;
+    background-color: lightgray;
+    margin-bottom: 1rem;
+}
+.menu a {
+    float: right;
+    color: black;
+    padding: 14px; 
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 20px;
+    padding: 20px 10px;
+
+}
+.legal {
+    background-color: black;
+    color: white;
+margin: 90px;
+    position: relative;
+}
+.startsida {
+    font-size: 200px;
+}
