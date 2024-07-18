@@ -37,14 +37,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-
-}
-.legal {
-    background-color: black;
-    color: white;
-margin: 90px;
-    position: relative;
 }
 .startsida {
     font-size: 200px;
+}
+.credit {
+    display: flex;
+    justify-content: center;
 }
